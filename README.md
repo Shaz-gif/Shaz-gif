@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shashwat
-- 👀 I’m interested in Machine Learning and Software
-- 🌱 I’m currently pursuing Bachelor in Mathematics and Computing
+- 👀 I’m interested in Machine Learning and Software Development
+- 🌱 I’m currently pursuing Bachelor in Mathematics and Computing from IIT Delhi.
 - 💞️ I’m looking to collaborate in impactful projects and papers
 - 📫 Reach me through email [shashwatrajiitd@gmail.com]
 - 😄 Pronouns: He/Him
